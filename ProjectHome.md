@@ -1,0 +1,1 @@
+Code from Galleria for displaying of Facebook photos.
